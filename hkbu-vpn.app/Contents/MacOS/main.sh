@@ -7,4 +7,4 @@ _dir=`dirname $0`
 _fn=`basename $0`
 cd $_dir
 
-open 'https://github.com/hupili/min-mac-app/'
+open -a Safari 'https://vnode.hkbu.edu.hk'
