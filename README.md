@@ -79,6 +79,8 @@ The [diff](https://github.com/hupili/min-mac-app/commit/9545018fd1717021141441f9
 shows you more intuitively how 
 [an icon](http://findicons.com/icon/58561/mac?id=58719) is added.
 
+Note, the `imagemagick`'s `convert` command does not work to convert a JPG file to ICNS file. You may want to try online converters like https://iconverticons.com/online/ .
+
 ## Further 
 
    * Read 
